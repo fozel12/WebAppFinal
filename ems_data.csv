@@ -1,0 +1,7 @@
+State,IncidentType,ResponseTime,CallCount
+Georgia,Cardiac Arrest,8.5,1500
+Georgia,Trauma,9.1,1200
+Texas,Cardiac Arrest,7.8,1800
+Texas,Trauma,8.2,1700
+Florida,Cardiac Arrest,9.4,1100
+Florida,Trauma,9.0,1000
